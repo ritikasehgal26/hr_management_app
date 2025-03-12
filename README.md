@@ -2,6 +2,16 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## clone command 
+
+git clone https://github.com/ritikasehgal26/hr_management_app.git
+
+## open project 
+
+cd next-first-app
+
+npm i 
+
 First, run the development server:
 
 ```bash
@@ -13,6 +23,10 @@ pnpm dev
 # or
 bun dev
 ```
+
+## path 
+
+ [http://localhost:3000](http://localhost:3000/homepage/dashboard)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
